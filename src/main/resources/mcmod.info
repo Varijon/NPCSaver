@@ -1,0 +1,16 @@
+[
+{
+  "modid": "npcsaver",
+  "name": "NPCSaver",
+  "description": "Mod that saves NPC to file as they're loaded into the world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
